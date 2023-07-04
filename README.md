@@ -1,2 +1,2 @@
-# terraform-Google-Doc-AI-
+# terraform-Google-Doc-AI
 Module for creation of Doc - AI 
